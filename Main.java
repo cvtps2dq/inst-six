@@ -3,6 +3,10 @@ public class Main {
         return a+b;
     }
 
+    public static void hi(){
+        System.out.println("hi");
+    }
+
     public static void main(String[] args){
         System.out.println("Это добавлено в ветке main");
     }
