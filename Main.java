@@ -11,6 +11,10 @@ public class Main {
         System.out.println("me crunchy");
     }
 
+    public static void tree(){
+        System.out.println("i love trees");
+    }
+
     public static void main(String[] args){
         System.out.println("Это добавлено в ветке main");
     }
